@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssra.abouelmawahib.19999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssra-abouelmawahib-026b04404/)
 
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=F7B801&style=for-the-badge)
+
 </div>
 
 ---
@@ -59,6 +61,19 @@ Neural network for handwritten digit classification in PyTorch: my first end-to-
 </div>
 
 **Currently learning:** transformers · generative models (GANs, diffusion, flow matching) · graph neural networks
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=F7B801&icon_color=F7B801" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=F7B801" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=F7B801&fire=F7B801&currStreakLabel=F7B801" alt="GitHub streak" />
+
+</div>
 
 ---
 
